@@ -8,13 +8,13 @@
 
 	--harsh-white: #FFFFFF;
 
-	--accent-p-bluegrotto: #001eff ;
-	--accent-p-tiffanyblue: #f000ff;
-	--accent-p-aquablue: #47D8E0;
+	--accent-p-bluegrotto: #fda403 ;
+	--accent-p-tiffanyblue: #e8751a;
+	--accent-p-aquablue: #c51350;
 	--accent-p-neonpink:  #ffe700;
-	--accent-p-blue: #74ee15;
-	--accent-p-gold: #2F4293;
-	--accent-p-pink: #152B79;
+	--accent-p-blue: #ffe700;
+	--accent-p-gold: #f000ff;
+	--accent-p-pink: #47D8E0;
 }
 
 body {
