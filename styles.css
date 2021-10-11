@@ -18,7 +18,7 @@
 }
 
 body {
-	background-color: var(--bg-grey-md);
+	background-color: var(--bg-grey-dk);
 	color: var(--text-grey-lt);
 	font-size: 16px;
 	font-family: "Lucida Console", Monaco, monospace;
