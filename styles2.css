@@ -1,0 +1,33 @@
+:root {
+  --bg-color: hsl(49 37% 94%);
+  --typewriterSpeed: 5s;
+  --typewriterCharacters: 24;
+}
+
+body {
+ margin: 0;
+
+  font-family: "Source Sans Pro", sans-serif;
+  min-height: 50vh;
+  display: grid;
+  place-content: left;
+  text-align: left;
+  background: var(--bg-color);
+  margin: 1rem auto;
+	max-width: 80ch;
+ 
+}
+
+h1 {
+  font-size: clamp(1rem, 3vw + 1rem, 4rem);
+  position: relative;
+  font-family: "Source Code Pro", monospace;
+  position: relative;
+  width: max-content;
+}
+
+.subtitle {
+  color: hsl(0 0% 0% / 0.7);
+  font-size: 1rem;
+  font-weight: 500;
+}
